@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: white!important;
+}
+
+main{
+    text-align: center;
+}
+
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: lightseagreen!important;
+}
+
+.btn-dark{
+    background: lightseagreen!important;
+}
